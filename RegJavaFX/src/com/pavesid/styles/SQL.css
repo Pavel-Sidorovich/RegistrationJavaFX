@@ -1,0 +1,11 @@
+.text-field:focused, .password-field:focused {
+    -fx-border-color: #6ED9A0;
+}
+
+
+.text-field, .password-field{
+    -fx-prompt-text-fill: #465048;
+    -fx-text-inner-color: #FBFCFC;
+    /*-fx-text-inner-color: red;*/
+    -fx-font-size: 15px;
+}

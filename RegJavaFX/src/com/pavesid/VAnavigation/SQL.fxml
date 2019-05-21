@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="720.0" prefWidth="1080.0" style="-fx-background-color: #2A363F;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pavesid.controllers.SQLController">
+   <children>
+      <Group AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
+         <children>
+            <Circle fill="#ff370f" layoutX="865.0" layoutY="148.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Text fill="#fbfcfc" layoutX="837.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="aveSid">
+               <font>
+                  <Font name="Lucida Calligraphy Italic" size="28.0" />
+               </font>
+            </Text>
+            <Circle fill="#ff451e" layoutX="831.0" layoutY="130.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#ff2b00" layoutX="843.0" layoutY="154.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#ff360e" layoutX="855.0" layoutY="154.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#ff401a" layoutX="855.0" layoutY="130.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#ff4c28" layoutX="831.0" layoutY="142.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#ff5c3b" layoutX="831.0" layoutY="166.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#ff4a2b" layoutX="831.0" layoutY="154.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#ff421c" layoutX="843.0" layoutY="130.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#ff3a13" layoutX="865.0" layoutY="136.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#ff6f53" layoutX="831.0" layoutY="178.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+         </children>
+      </Group>
+      <AnchorPane prefHeight="722.0" prefWidth="1080.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <TextField fx:id="emailSignIn" layoutX="90.0" layoutY="305.0" prefHeight="55.0" prefWidth="350.0" promptText="userPassword from DB" style="-fx-background-color: #2A363F; -fx-border-color: #465058;" stylesheets="@../styles/SQL.css" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </TextField>
+            <Button fx:id="connectToDB" layoutX="620.0" layoutY="380.0" mnemonicParsing="false" onAction="#connectToDBAction" prefHeight="55.0" prefWidth="350.0" style="-fx-background-color: #6ED9AD; -fx-border-color: #465058;" text="CONNECTS" textFill="#fbfcfc" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+   </children>
+   <opaqueInsets>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </opaqueInsets>
+</AnchorPane>
