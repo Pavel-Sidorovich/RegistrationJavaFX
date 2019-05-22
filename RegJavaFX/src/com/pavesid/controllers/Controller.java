@@ -1,4 +1,4 @@
-package com.pavesid.interfaces;
+package com.pavesid.controllers;
 
 import javafx.scene.Node;
 

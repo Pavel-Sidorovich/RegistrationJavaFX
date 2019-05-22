@@ -3,12 +3,12 @@ package com.pavesid.objects;
 public class Person {
     private String email;
     private String password;
-    private String deffPass;
+    private String passDefault;
 
-    public Person(String email, String phone, String deffPass) {
+    public Person(String email, String password, String passDefault) {
         this.email = email;
         this.password = password;
-        this.deffPass = deffPass;
+        this.passDefault = passDefault;
     }
 
     public String getEmail() {
@@ -27,11 +27,20 @@ public class Person {
         this.password = password;
     }
 
-    public String getDeffPass() {
-        return deffPass;
+    public String getPassDefault() {
+        return passDefault;
     }
 
-    public void setDeffPass(String deffPass) {
-        this.deffPass = deffPass;
+    public void setPassDefault(String passDefault) {
+        this.passDefault = passDefault;
+    }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "email='" + email + '\'' +
+                ", password='" + password + '\'' +
+                ", defPass='" + passDefault + '\'' +
+                '}';
     }
 }

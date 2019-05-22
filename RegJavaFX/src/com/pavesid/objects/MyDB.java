@@ -15,7 +15,7 @@ public class MyDB {
 //        this.connectionURL = "jdbc:mysql://localhost:3306/mymap?useUnicode=true&serverTimezone=UTC";
         userName = "sql7291253";
         userPassword = "";
-        connectionURL = "jdbc:mysql://sql7.freesqldatabase.com:3306/sql7291253";
+        connectionURL = "jdbc:mysql://db4free.net:3306/sql7291253";
     }
 
     public MyDB(String userPassword) {
@@ -42,6 +42,7 @@ public class MyDB {
 
     public boolean isRightPass(String userPassword) {
         setUserPassword(userPassword);
+        System.out.println(userPassword);
         try (Connection connection = DriverManager.getConnection(connectionURL, userName, userPassword);
              Statement statement = connection.createStatement()) {
             return true;

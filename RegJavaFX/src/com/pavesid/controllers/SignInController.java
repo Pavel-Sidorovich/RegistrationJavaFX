@@ -1,6 +1,6 @@
 package com.pavesid.controllers;
 
-import com.pavesid.Main;
+import com.pavesid.helper.AlertWindow;
 import com.pavesid.interfaces.impls.DBRegistrationPerson;
 import com.pavesid.objects.Person;
 import javafx.event.ActionEvent;
@@ -27,7 +27,7 @@ public class SignInController extends BaseController {
     @FXML
     private Button btnForgotPass;
 
-    private DBRegistrationPerson dbRegistrationPerson;
+    //private DBRegistrationPerson dbRegistrationPerson;
 
     public void showDialog(ActionEvent actionEvent) {
         Object source = actionEvent.getSource();
@@ -39,20 +39,26 @@ public class SignInController extends BaseController {
         switch (clickBtn.getId()) {
             case "btnConnect":
                 Person p = dbRegistrationPerson.getPerson(emailSignIn.getText());
-                if (dbRegistrationPerson.isDeffPass(p)) {
-                    //Окно с изменением пароля
+                if (dbRegistrationPerson.isDefPass(p)) {
+                    ChangeDefPassController controller = (ChangeDefPassController) navigation.load("ChangeDefPass.fxml");
+
+                    navigation.getStage().setTitle("Change Password");
+                    controller.setParameterFromSignIn(emailSignIn.getText());
+                    controller.Show();
                 } else if (p.getPassword().equals(passwordSignIn.getText())) {
-                    System.out.println("All good");
+                    System.out.println("All good");                              //!!!
                 } else {
-                    System.out.println("Something not right");
+                    AlertWindow.showAlert("Invalid email or password");
                 }
                 break;
             case "btnSignUp":
-                Main.getNavigation().load("SignUp.fxml").Show();
+                System.out.println(dbRegistrationPerson.getPerson("sidorovichpavelalex@gmail.com"));
+                navigation.getStage().setTitle("Sign Up");
+                navigation.load("SignUp.fxml").Show();
                 break;
             case "btnForgotPass":
-                //Main.getNavigation().load(Main.getNavigation().).Show();
-                System.out.println("Тут должно быть восстановление пароля. В идеале кидается на почту новый пароль и ожиается потом изменение.");
+                navigation.getStage().setTitle("Password Recovery");
+                navigation.load("PasswordRecovery.fxml").Show();
                 break;
         }
     }

@@ -6,7 +6,9 @@ public interface RegistrationBook {
 
     void addPerson(Person person);
 
-    void updatePerson(Person person);
+    void updatePassPerson(String email, String password);
+
+    void updateDefPassPerson(Person person);
 
     void removePerson(Person person);
 

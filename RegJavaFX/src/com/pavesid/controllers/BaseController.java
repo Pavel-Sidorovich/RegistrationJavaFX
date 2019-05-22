@@ -1,7 +1,8 @@
 package com.pavesid.controllers;
 
 import com.pavesid.Main;
-import com.pavesid.interfaces.Controller;
+import com.pavesid.VAnavigation.Navigation;
+import com.pavesid.interfaces.impls.DBRegistrationPerson;
 import javafx.event.ActionEvent;
 import javafx.scene.Node;
 import javafx.scene.control.ToggleButton;
@@ -9,6 +10,9 @@ import javafx.scene.control.ToggleButton;
 public class BaseController implements Controller {
 
     private Node view;
+
+    DBRegistrationPerson dbRegistrationPerson = new DBRegistrationPerson();
+    Navigation navigation = Main.getNavigation();
 
     public BaseController() {
 
@@ -52,4 +56,5 @@ public class BaseController implements Controller {
                 break;
         }
     }
+
 }

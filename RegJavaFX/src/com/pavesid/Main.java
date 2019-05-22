@@ -24,7 +24,7 @@ public class Main extends Application {
     public void start(Stage primaryStage){
         navigation = new Navigation(primaryStage);
 
-        primaryStage.setTitle("My App");
+        primaryStage.setTitle("SQl password");
         primaryStage.show();
 
         //navigate to first view

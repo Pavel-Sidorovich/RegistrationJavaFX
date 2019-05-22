@@ -1,12 +1,11 @@
 package com.pavesid.controllers;
 
-import com.pavesid.Main;
+import com.pavesid.helper.AlertWindow;
 import com.pavesid.interfaces.impls.DBRegistrationPerson;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.PasswordField;
-import javafx.scene.control.TextField;
 
 
 public class ChangeDefPassController extends BaseController{
@@ -22,6 +21,16 @@ public class ChangeDefPassController extends BaseController{
 
     private DBRegistrationPerson dbRegistrationPerson;
 
+    private String emailFromSignIn;
+
+    public String getEmailFromSignIn() {
+        return emailFromSignIn;
+    }
+
+    public void setParameterFromSignIn(String emailFromSignIn) {
+        this.emailFromSignIn = emailFromSignIn;
+    }
+
     public void showDialog(ActionEvent actionEvent){
         Object source = actionEvent.getSource();
 
@@ -32,15 +41,13 @@ public class ChangeDefPassController extends BaseController{
         switch (clickBtn.getId()){
             case "btnConnect":
                 if(password.getText().equals(confirmPassword.getText())){
-                    //email вернуть из прошлого окна
-                    ////dbRegistrationPerson.getPerson(emailSignIn.getText());
-                    //Устанавливаем пароль и дефолтный зануляем
-                    //Снова переход на вход
-                    Main.getNavigation().load("SignIn.fxml").Show();
+                    AlertWindow.showAlert(emailFromSignIn);
+                    dbRegistrationPerson.updatePassPerson(emailFromSignIn, password.getText());
+                    navigation.getStage().setTitle("Sign In");
+                    navigation.load("SignIn.fxml").Show();
                 } else
                 {
-                    //Кидаем модальное окно, что не одинаковые пароли.
-                    //Зануляем
+                    AlertWindow.showAlert("Passwords do not match.");
                     password.setText("");
                     confirmPassword.setText("");
                 }

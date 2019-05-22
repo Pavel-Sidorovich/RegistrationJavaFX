@@ -1,6 +1,7 @@
 package com.pavesid.controllers;
 
 import com.pavesid.Main;
+import com.pavesid.helper.AlertWindow;
 import com.pavesid.helper.DetectionSpecialChar;
 import com.pavesid.helper.GenerateSecurePassword;
 import com.pavesid.interfaces.impls.DBRegistrationPerson;
@@ -35,13 +36,15 @@ public class SignUpController  extends BaseController {
                 break;
             case "btnNewSignIn":
                 if(DetectionSpecialChar.isMail(emailSignIn.getText())) {
-                    String deffPass = GenerateSecurePassword.generatePassword(12);
-                    dbRegistrationPerson.addPerson(new Person(emailSignIn.getText(), "", deffPass));
-                    System.out.println(deffPass);
+                    String defPass = GenerateSecurePassword.generatePassword(12);
+
+                    dbRegistrationPerson.addPerson(new Person(emailSignIn.getText(), "", defPass));
                     System.out.println("Тут должно отсылаться письмо");
+                    //Окно с кнопкой перехода на вход и записью, что отослали письмо на почту
                     Main.getNavigation().load("SignIn.fxml").Show();
                 }else{
                     //Всплывающее окно, где написано, что не мэйл.
+                    AlertWindow.showAlert("It doesn't look like email");
                     emailSignIn.setText("");
                 }
                 break;

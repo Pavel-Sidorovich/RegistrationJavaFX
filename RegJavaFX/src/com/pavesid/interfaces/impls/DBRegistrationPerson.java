@@ -9,15 +9,13 @@ import java.sql.*;
 
 public class DBRegistrationPerson implements RegistrationBook {
 
-    @Override
-    public void addPerson(Person person) {
+    MyDB db = Main.getMyDB();
+    private void sqlQuery(String query) {
         try {
-            MyDB db = Main.getMyDB();
             Class.forName("com.mysql.jdbc.Driver");
             try (Connection connection = DriverManager.getConnection(db.getConnectionURL(), db.getUserName(), db.getUserPassword());
                  Statement statement = connection.createStatement()) {
-                //statement.executeUpdate(" create table mapDB (email varchar(50) NOT NULL,password varchar(15) NOT NULL,PRIMARY KEY (email));");
-                statement.executeUpdate("INSERT into mapdb values ('" + person.getEmail() + "','" + person.getPassword() + "');");
+                statement.executeUpdate(query);
 
             } catch (SQLException e) {
                 e.printStackTrace();
@@ -25,17 +23,28 @@ public class DBRegistrationPerson implements RegistrationBook {
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
-
     }
 
     @Override
-    public void updatePerson(Person person) {
+    public void addPerson(Person person) {
+        sqlQuery("INSERT into mapdb values ('" + person.getEmail() + "','" + person.getPassword() +"','" + person.getPassDefault() + "');");
+    }
 
+    @Override
+    public void updateDefPassPerson(Person person) {
+        //Создаем новый дефолт.
+        sqlQuery("UPDATE mapdb SET passDefault = '" + person.getPassDefault() + "' WHERE email = '" + person.getEmail() + "';");
+    }
+
+    @Override
+    public void updatePassPerson(String email, String password) {
+        //Дефолт зануляем, вставляем необходимый новый.
+        sqlQuery("UPDATE mapdb SET passDefault = 'NULL', password = '" + password +"' WHERE email = '" + email + "';");
     }
 
     @Override
     public void removePerson(Person person) {
-
+        sqlQuery("DELETE FROM mapdb WHERE email = '" + person.getEmail() + "';");
     }
 
     @Override
@@ -45,12 +54,9 @@ public class DBRegistrationPerson implements RegistrationBook {
             Class.forName("com.mysql.jdbc.Driver");
             try (Connection connection = DriverManager.getConnection(db.getConnectionURL(), db.getUserName(), db.getUserPassword());
                  Statement statement = connection.createStatement()) {
-                //System.out.println("Ok");
-                //statement.executeUpdate(" create table mapDB (email varchar(50) NOT NULL,password varchar(15) NOT NULL,PRIMARY KEY (email));");
                 ResultSet resultSet = statement.executeQuery("SELECT * FROM mapdb WHERE email='" + person.getEmail() + "';");
                 return resultSet.next();
             } catch (SQLException e) {
-                //System.out.println("Bad");
                 e.printStackTrace();
             }
         } catch (ClassNotFoundException e) {
@@ -62,20 +68,14 @@ public class DBRegistrationPerson implements RegistrationBook {
     @Override
     public Person getPerson(String email) {
         try {
-            MyDB db = Main.getMyDB();
             Class.forName("com.mysql.jdbc.Driver");
             try (Connection connection = DriverManager.getConnection(db.getConnectionURL(), db.getUserName(), db.getUserPassword());
                  Statement statement = connection.createStatement()) {
-                //statement.executeUpdate(" create table mapDB (email varchar(50) NOT NULL,password varchar(15) NOT NULL,PRIMARY KEY (email));");
-                //System.out.println("Подключил");
                 ResultSet resultSet = statement.executeQuery("SELECT * FROM mapdb WHERE email='" + email + "';");
-
-                System.out.println(resultSet.next());
-//            while (resultSet.next()) {
-//                return resultSet.getString(2);
-//            }
+            while (resultSet.next()) {
+                return new Person(resultSet.getString("email"), resultSet.getString("password"), resultSet.getString("passDefault"));
+            }
             } catch (SQLException e) {
-                //System.out.println("Облом");
                 e.printStackTrace();
             }
         } catch (ClassNotFoundException e) {
@@ -84,9 +84,8 @@ public class DBRegistrationPerson implements RegistrationBook {
         return new Person("", "", "");
     }
 
-    public Boolean isDeffPass(Person p) {
-        //Person p = getPerson(email);
-        if (!p.getDeffPass().equals("") && !p.getEmail().equals(""))
+    public Boolean isDefPass(Person p) {
+        if (!p.getPassDefault().equals("") && !p.getEmail().equals(""))
             return true;
         else return false;
     }
