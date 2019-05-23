@@ -1,14 +1,10 @@
 package com.pavesid.controllers;
 
-import com.pavesid.helper.AlertWindow;
 import com.pavesid.interfaces.impls.DBRegistrationPerson;
-import com.pavesid.objects.Person;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.scene.control.Button;
-import javafx.scene.control.Label;
-import javafx.scene.control.PasswordField;
-import javafx.scene.control.TextField;
+import javafx.scene.control.*;
+import javafx.scene.input.MouseEvent;
 
 
 public class MoreInfoController extends BaseController {
@@ -17,19 +13,60 @@ public class MoreInfoController extends BaseController {
     private TextField textName;
 
     @FXML
-    private Label labelName;
+    private TextField textSecondName;
+
+    @FXML
+    private TextField textNumber;
+
+    private RadioButton gender;
+
+    @FXML
+    private RadioButton male;
+
+    @FXML
+    private ToggleGroup genderGroup;
+
+    @FXML
+    private TextArea areaMore;
 
     @FXML
     private Button btnConnect;
 
     private DBRegistrationPerson dbRegistrationPerson;
 
-    public void showDialog(ActionEvent actionEvent) {
-        labelName.setLabelFor(textName);
-        labelName.setLabelFor(textName);
+    @FXML
+    private void showDialog(ActionEvent actionEvent) {
+
+        gender = (RadioButton) genderGroup.getSelectedToggle();
+        System.out.println(textName.getText() +
+                " " + textSecondName.getText() +
+                " " + textNumber.getText() +
+                " " + gender.getText() +
+                " " + areaMore.getText());
     }
 
-    public void show(ActionEvent actionEvent) {
-        labelName.setLabelFor(textName);
+    @FXML
+    private void clickOnName(MouseEvent mouseEvent) {
+        textName.requestFocus();
+    }
+
+    @FXML
+    private void clickOnSecondName(MouseEvent mouseEvent) {
+        textSecondName.requestFocus();
+    }
+
+    @FXML
+    private void clickOnNumber(MouseEvent mouseEvent) {
+        textNumber.requestFocus();
+    }
+
+    @FXML
+    private void clickOnSex(MouseEvent mouseEvent) {
+        male.requestFocus();
+    }
+
+    @FXML
+    private void clickOnMore(MouseEvent mouseEvent) {
+        areaMore.requestFocus();
     }
 }

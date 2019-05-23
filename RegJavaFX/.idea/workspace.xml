@@ -8,25 +8,117 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1.1/activation-1.1.1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1.1/activation-1.1.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1.1/activation-1.1.1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/_maven.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/activation-1.1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/activation-1.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/activation-1.1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/javax.activation-api/1.2.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/annotation/jsr250-api/1.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/enterprise/cdi-api/1.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/inject/javax.inject/1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/inject/javax.inject/1/javax.inject-1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/inject/javax.inject/1/javax.inject-1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/inject/javax.inject/1/javax.inject-1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-api/7.0/_maven.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-api/7.0/javaee-api-7.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-api/7.0/javaee-api-7.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-api/7.0/javaee-api-7.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-endorsed-api/7.0/_maven.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-endorsed-api/7.0/javaee-endorsed-api-7.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/javaee-web-api-6.0-sources.jar.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/javaee-web-api-6.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/javaee-web-api-6.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/7.0/_maven.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/7.0/javaee-web-api-7.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/7.0/javaee-web-api-7.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/javax.json-api-1.0-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/javax.json-api-1.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/javax.json-api-1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/javax.json-api-1.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/mail/javax.mail-api/1.6.2/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/mail/javax.mail-api/1.6.2/javax.mail-api-1.6.2.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/mail/javax.mail-api/1.6.2/javax.mail-api-1.6.2.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/mail/javax.mail-api/1.6.2/javax.mail-api-1.6.2.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/3.1.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.5/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1-sources.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/transaction/javax.transaction-api/1.2/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/validation/validation-api/1.1.0.Final/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/ws/rs/jsr311-api/1.1.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api-parent/2.3.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.3.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/stream/stax-api/1.0-2/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/MoreInfo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/MoreInfo.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/pavesid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/ChangeDefPass.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/ChangeDefPass.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/Navigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/Navigation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SQL.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SQL.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignIn.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignIn.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignUp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignUp.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/BaseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/ChangeDefPassController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/ChangeDefPassController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/interfaces/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/interfaces/RegistrationBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/interfaces/RegistrationBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/objects/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/objects/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/styles/SQL.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/styles/SQL.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/styles/SignUp.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/styles/SignUp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/helper/sendEmail.java" beforeDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,8 +185,7 @@
     <breakpoint_rules converted="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="JavaFxApplication" />
@@ -105,7 +196,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/pavesid/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#409#410#0" expanded="true" />
@@ -116,33 +207,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="45" column="66" lean-forward="true" selection-start-line="45" selection-start-column="66" selection-end-line="47" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
+            <state relative-caret-position="901">
               <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -151,27 +218,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/BaseController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java">
+        <entry file="file://$PROJECT_DIR$/src/com/pavesid/mail/SendInlineImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="81" column="38" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#removePerson#0;class#DBRegistrationPerson#0" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -180,13 +231,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#627#628#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-              </folding>
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -195,7 +240,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#MyDB#1;class#MyDB#0" />
@@ -206,19 +251,22 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+            <state relative-caret-position="1377">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
             </state>
           </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+            <state relative-caret-position="425">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -239,6 +287,17 @@
     <findStrings>
       <find>VAn</find>
       <find>css</find>
+      <find>text</find>
+      <find>src</find>
+      <find>twitt</find>
+      <find>illo_welcome_1</find>
+      <find>llo_welcome_</find>
+      <find>|</find>
+      <find>Tahom</find>
+      <find>username</find>
+      <find>num6</find>
+      <find>Img</find>
+      <find>Logo</find>
     </findStrings>
   </component>
   <component name="FindManager">
@@ -252,15 +311,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/CollectionRegistrationBook.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/fxml/Table.fxml" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/styles/Table.css" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/styles/lk.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/lk.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/objects/mySQL.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/modalSQLController.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/IDB.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/objects/DB.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/controllers/TableController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/Controler.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/Controller.java" />
@@ -293,16 +343,25 @@
         <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DB.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/Navigation.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/helper/sendHtmlEmail.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/helper/sendEmail.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/Main.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/controllers/BaseController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/objects/Person.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/Main.java" />
+        <option value="$PROJECT_DIR$/src/label_3.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/helper/ЫутвУьфш.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/helper/SendEmailWithImage.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/helper/sendEmail.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/helper/SimpleMail.java" />
+        <option value="$PROJECT_DIR$/src/SendHTMLEmail.java" />
+        <option value="$PROJECT_DIR$/src/Send.java" />
+        <option value="$PROJECT_DIR$/src/SendInlineImage.java" />
+        <option value="$PROJECT_DIR$/src/beefree-u9yt8xwesii.html" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/mail/SendInlineImage.java" />
       </list>
     </option>
   </component>
@@ -321,10 +380,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="942" />
-    <option name="y" value="495" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="1295" />
-    <option name="height" value="1409" />
+    <option name="height" value="1410" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -336,7 +395,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -347,11 +405,6 @@
             <path>
               <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
               <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -365,7 +418,14 @@
               <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pavesid" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pavesid" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
@@ -379,12 +439,19 @@
               <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pavesid" type="462c0819:PsiDirectoryNode" />
-              <item name="objects" type="462c0819:PsiDirectoryNode" />
+              <item name="mail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,30 +473,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558529515438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558614315380" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaFX/JavaF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\FXProject\FirstExample\lib" />
-      <recent name="E:\FXProject\FirstExample\src\com\pavesid\VAnavigation" />
-      <recent name="E:\FXProject\FirstExample\src\com\pavesid" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.pavesid.controllers" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\FXProject\FirstExample\src\com\pavesid\VAnavigation" />
       <recent name="E:\FXProject\FirstExample\src\com\pavesid\styles" />
       <recent name="E:\FXProject\FirstExample\src\com\pavesid\fxml" />
       <recent name="E:\FXProject\FirstExample\src\com\pavesid\images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pavesid.controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\RegJavaFX\src\com\pavesid\images" />
+      <recent name="H:\RegJavaFX\src\images" />
+      <recent name="C:\Users\sidorovich_p\Desktop\RegJavaFX\src\com\pavesid\Mail" />
+      <recent name="C:\Users\sidorovich_p\Desktop\RegJavaFX\lib" />
+      <recent name="E:\FXProject\FirstExample\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -444,7 +513,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.SendInlineImage">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -507,16 +576,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pavesid.objects.MyDB" />
+    <configuration name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Send" />
       <module name="FirstExample" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pavesid.objects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendHTMLEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SendHTMLEmail" />
+      <module name="FirstExample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendInlineImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pavesid.mail.SendInlineImage" />
+      <module name="FirstExample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -527,16 +606,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cxc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pavesid.cxc" />
+    <configuration name="label_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="label_3" />
       <module name="FirstExample" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pavesid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -574,16 +647,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MyDB" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.cxc" />
+      <item itemvalue="Application.label_3" />
+      <item itemvalue="Application.SendHTMLEmail" />
+      <item itemvalue="Application.Send" />
+      <item itemvalue="Application.SendInlineImage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SendInlineImage" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.cxc" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MyDB" />
+        <item itemvalue="Application.Send" />
+        <item itemvalue="Application.SendHTMLEmail" />
+        <item itemvalue="Application.label_3" />
       </list>
     </recent_temporary>
   </component>
@@ -603,12 +679,19 @@
       <workItem from="1558416813474" duration="18860000" />
       <workItem from="1558499995265" duration="16361000" />
       <workItem from="1558526432446" duration="2166000" />
-      <workItem from="1558537676020" duration="4379000" />
+      <workItem from="1558537676020" duration="4665000" />
+      <workItem from="1558550213101" duration="193000" />
+      <workItem from="1558588252046" duration="12844000" />
+      <workItem from="1558613451621" duration="634000" />
+      <workItem from="1558622179651" duration="9288000" />
+      <workItem from="1558635436821" duration="254000" />
+      <workItem from="1558635810305" duration="1266000" />
+      <workItem from="1558637131223" duration="245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78419000" />
+    <option name="totallyTimeSpent" value="103429000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -623,7 +706,7 @@
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.16233766" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.18381618" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -631,8 +714,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2997988" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897383" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29879275" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3998441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -711,41 +794,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/Objects.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/javafx-src.zip!/javafx/collections/FXCollections.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/javafx-src.zip!/javafx/fxml/FXMLLoader.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/styles/Table.css" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/fxml/Table.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="50" column="98" selection-start-line="50" selection-start-column="98" selection-end-line="50" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/IDB.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/impls/CollectionRegistrationBook.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/modalSQLController.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationBook.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/images/430058966.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/images/backarrow_80933.png" />
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstexample.xml" />
-    <entry file="file://$PROJECT_DIR$/firstexample.properties" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/TableController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/TableController.java" />
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/GenerateSecurePassword.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -796,12 +845,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignUp.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/styles/SQL.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -831,36 +880,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/ChangeDefPass.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/EmailSent.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/SQL.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignIn.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="791">
           <caret line="61" selection-start-line="61" selection-end-line="62" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/PasswordRecoveryController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -880,12 +929,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/PasswordRecovery.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DB.java" />
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/Navigation.java">
@@ -907,59 +956,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/sendHtmlEmail.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/sendEmail.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#MyDB#1;class#MyDB#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="187">
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -968,8 +968,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="45" column="66" lean-forward="true" selection-start-line="45" selection-start-column="66" selection-end-line="47" selection-end-column="44" />
+        <state relative-caret-position="612">
+          <caret line="45" column="66" selection-start-line="45" selection-start-column="66" selection-end-line="47" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#updatePassPerson#0;class#DBRegistrationPerson#0" />
+            <element signature="method#removePerson#0;class#DBRegistrationPerson#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/label_3.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/ЫутвУьфш.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/SimpleMail.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/SendEmailWithImage.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/mail/beefree-u9yt8xwesii.html" />
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/sendEmail.java" />
+    <entry file="file://$PROJECT_DIR$/src/SendHTMLEmail.java" />
+    <entry file="file://$PROJECT_DIR$/src/Send.java" />
+    <entry file="file://$PROJECT_DIR$/src/images/Logo1.png" />
+    <entry file="jar://$USER_HOME$/Downloads/javax.mail-1.6.2.jar!/javax/mail/Authenticator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/illo_welcome_1.png" />
+    <entry file="file://$PROJECT_DIR$/src/beefree-u9yt8xwesii.html" />
+    <entry file="file://$PROJECT_DIR$/src/images/pavesid@2x.png" />
+    <entry file="file://$PROJECT_DIR$/src/images/instagram@2x.png" />
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MyDB#1;class#MyDB#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -978,7 +1068,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
+        <state relative-caret-position="901">
           <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -986,27 +1076,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/images/facebook@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/mail/SendInlineImage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="81" column="38" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#removePerson#0;class#DBRegistrationPerson#0" />
-          </folding>
+          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -1041,7 +1117,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>servlet</last-edited>
+          <last-edited>javax</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1070,6 +1146,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
