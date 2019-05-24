@@ -28,7 +28,7 @@ public class Main extends Application {
         primaryStage.show();
 
         //navigate to first view
-        Main.getNavigation().load("MoreInfo.fxml").Show();
+        Main.getNavigation().load("SQL.fxml").Show();
     }
 
     public static void main(String[] args) {

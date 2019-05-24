@@ -1,7 +1,6 @@
 package com.pavesid.controllers;
 
 import com.pavesid.helper.AlertWindow;
-import com.pavesid.interfaces.impls.DBRegistrationPerson;
 import com.pavesid.objects.Person;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -46,13 +45,14 @@ public class SignInController extends BaseController {
                     controller.setParameterFromSignIn(emailSignIn.getText());
                     controller.Show();
                 } else if (p.getPassword().equals(passwordSignIn.getText())) {
-                    System.out.println("All good");                              //!!!
+                    System.out.println("All good");
                 } else {
+                    passwordSignIn.setText("");
+                    emailSignIn.setText("");
                     AlertWindow.showAlert("Invalid email or password");
                 }
                 break;
             case "btnSignUp":
-                System.out.println(dbRegistrationPerson.getPerson("sidorovichpavelalex@gmail.com"));
                 navigation.getStage().setTitle("Sign Up");
                 navigation.load("SignUp.fxml").Show();
                 break;

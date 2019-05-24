@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.image.*?>
-<?import javafx.scene.canvas.*?>
 <?import javafx.geometry.*?>
 <?import javafx.scene.text.*?>
 <?import javafx.scene.shape.*?>
-<?import java.lang.*?>
-<?import java.util.*?>
 <?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane prefHeight="720.0" prefWidth="1080.0" style="-fx-background-color: #2A363F;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pavesid.controllers.SignUpController">
+<AnchorPane prefHeight="720.0" prefWidth="1080.0" style="-fx-background-color: #2A363F;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pavesid.controllers.EmailSendController">
    <children>
       <Group AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
          <children>
@@ -35,22 +31,16 @@
       </Group>
       <AnchorPane prefHeight="722.0" prefWidth="1080.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
-            <TextField fx:id="emailSignIn" layoutX="620.0" layoutY="245.0" prefHeight="55.0" prefWidth="350.0" promptText="Email" style="-fx-background-color: #2A363F; -fx-border-color: #465058;" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
-               <font>
-                  <Font size="18.0" />
-               </font>
-            </TextField>
-            <Button fx:id="btnNewSignIn" defaultButton="true" layoutX="620.0" layoutY="350.0" mnemonicParsing="false" onAction="#showDialog" prefHeight="55.0" prefWidth="350.0" style="-fx-background-color: #6ED9AD; -fx-border-color: #465058;" text="CONNECTS" textFill="#fbfcfc" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
+            <Button fx:id="btnToSignIn" defaultButton="true" layoutX="620.0" layoutY="380.0" mnemonicParsing="false" onAction="#toSignIn" prefHeight="55.0" prefWidth="350.0" style="-fx-background-color: #6ED9AD; -fx-border-color: #465058;" text="To Sign In" textFill="#fbfcfc" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
                <font>
                   <Font name="System Bold" size="15.0" />
                </font>
             </Button>
-            <Button fx:id="btnSignIn" layoutX="708.0" layoutY="421.0" mnemonicParsing="false" onAction="#showDialog" prefHeight="30.0" prefWidth="213.0" style="-fx-background-color: #2A363F;" text="Already user? Sign In..." textFill="#465058" AnchorPane.rightAnchor="90.0">
+            <Label alignment="CENTER" layoutX="90.0" layoutY="280.0" lineSpacing="2.0" text="An email with a new password has been sent to your email address." textAlignment="CENTER" textFill="#f2f2f2" wrapText="true" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
                <font>
-                  <Font size="14.0" />
+                  <Font name="Book Antiqua" size="24.0" />
                </font>
-            </Button>
-            <ToggleButton fx:id="btnBack" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#showDialogToggle" prefHeight="50.0" prefWidth="50.0" style="-fx-background-color: #2A363F;" stylesheets="@../styles/SignUp.css" />
+            </Label>
          </children>
       </AnchorPane>
    </children>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import java.lang.*?>
 <?import javafx.geometry.*?>
 <?import javafx.scene.text.*?>
 <?import javafx.scene.shape.*?>
@@ -47,6 +48,11 @@
                   <Font size="18.0" />
                </font>
             </PasswordField>
+            <Label alignment="CENTER" layoutY="110.0" text="Enter a new password" textAlignment="CENTER" textFill="WHITE" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
+               <font>
+                  <Font size="28.0" />
+               </font>
+            </Label>
          </children>
       </AnchorPane>
    </children>

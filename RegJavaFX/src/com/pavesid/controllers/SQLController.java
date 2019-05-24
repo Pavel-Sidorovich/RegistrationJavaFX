@@ -13,11 +13,9 @@ public class SQLController extends BaseController {
     @FXML
     private void connectToDBAction() {
         if (Main.getMyDB().isRightPass(emailSignIn.getText())) {
-            System.out.println("Зашли");
             navigation.getStage().setTitle("Sign In");
             navigation.load("SignIn.fxml").Show();
         } else {
-            //Main.getNavigation().createModal();
             AlertWindow.showAlert("You have entered an incorrect DB password");
 
             emailSignIn.setText("");

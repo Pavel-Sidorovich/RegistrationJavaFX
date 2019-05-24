@@ -1,6 +1,7 @@
 package com.pavesid.controllers;
 
 import com.pavesid.helper.AlertWindow;
+import com.pavesid.helper.DetectionSpecialChar;
 import com.pavesid.interfaces.impls.DBRegistrationPerson;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -19,7 +20,7 @@ public class ChangeDefPassController extends BaseController{
     @FXML
     private Button btnConnect;
 
-    private DBRegistrationPerson dbRegistrationPerson;
+    //private DBRegistrationPerson dbRegistrationPerson;
 
     private String emailFromSignIn;
 
@@ -40,9 +41,9 @@ public class ChangeDefPassController extends BaseController{
         Button clickBtn = (Button) source;
         switch (clickBtn.getId()){
             case "btnConnect":
-                if(password.getText().equals(confirmPassword.getText())){
-                    AlertWindow.showAlert(emailFromSignIn);
-                    dbRegistrationPerson.updatePassPerson(emailFromSignIn, password.getText());
+                String pass = password.getText();
+                if(pass.equals(confirmPassword.getText()) && DetectionSpecialChar.isPassword(pass)){
+                    dbRegistrationPerson.updatePassPerson(emailFromSignIn, pass);
                     navigation.getStage().setTitle("Sign In");
                     navigation.load("SignIn.fxml").Show();
                 } else

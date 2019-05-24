@@ -5,6 +5,7 @@ import com.pavesid.helper.AlertWindow;
 import com.pavesid.helper.DetectionSpecialChar;
 import com.pavesid.helper.GenerateSecurePassword;
 import com.pavesid.interfaces.impls.DBRegistrationPerson;
+import com.pavesid.mail.SendEmail;
 import com.pavesid.objects.Person;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -19,16 +20,17 @@ public class PasswordRecoveryController extends BaseController {
     @FXML
     private TextField emailForgotPass;
 
-    private DBRegistrationPerson dbRegistrationPerson;
-
     public void recoveryPass(){
 
+        String email = emailForgotPass.getText();
                 if(DetectionSpecialChar.isMail(emailForgotPass.getText())) {
-                    String defPass = GenerateSecurePassword.generatePassword(12);
                     //Insert new Def password
-                    System.out.println(defPass);
                     if(true){                        //Письмо успешно ушло)
-                        Main.getNavigation().load("EmailSent.fxml").Show();
+                        String defPass = GenerateSecurePassword.generatePassword(12);
+                        System.out.println(defPass);
+                        dbRegistrationPerson.updateDefPassPerson(new Person(email, "", defPass));
+                        SendEmail.send(email, defPass);
+                        Main.getNavigation().load("EmailSend.fxml").Show();
                     } else {
                         System.out.println("Error");
                     }

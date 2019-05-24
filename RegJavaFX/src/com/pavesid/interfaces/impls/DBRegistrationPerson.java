@@ -33,7 +33,7 @@ public class DBRegistrationPerson implements RegistrationBook {
     @Override
     public void updateDefPassPerson(Person person) {
         //Создаем новый дефолт.
-        sqlQuery("UPDATE mapdb SET passDefault = '" + person.getPassDefault() + "' WHERE email = '" + person.getEmail() + "';");
+        sqlQuery("UPDATE mapdb SET password = 'NULL', passDefault = '" + person.getPassDefault() + "' WHERE email = '" + person.getEmail() + "';");
     }
 
     @Override
@@ -85,7 +85,7 @@ public class DBRegistrationPerson implements RegistrationBook {
     }
 
     public Boolean isDefPass(Person p) {
-        if (!p.getPassDefault().equals("") && !p.getEmail().equals(""))
+        if (!p.getPassDefault().equals("NULL") && !p.getEmail().equals(""))
             return true;
         else return false;
     }

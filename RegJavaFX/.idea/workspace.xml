@@ -2,123 +2,56 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="FirstExample:jar" />
+      <artifact name="FirstExample" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FirstExample_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1.1/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1.1/activation-1.1.1.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1.1/activation-1.1.1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1.1/activation-1.1.1.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/_maven.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/activation-1.1.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/activation-1.1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/activation/1.1/activation-1.1.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/javax.activation-api/1.2.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/annotation/jsr250-api/1.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/enterprise/cdi-api/1.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/inject/javax.inject/1/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/inject/javax.inject/1/javax.inject-1.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/inject/javax.inject/1/javax.inject-1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/inject/javax.inject/1/javax.inject-1.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-api/7.0/_maven.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-api/7.0/javaee-api-7.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-api/7.0/javaee-api-7.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-api/7.0/javaee-api-7.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-endorsed-api/7.0/_maven.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-endorsed-api/7.0/javaee-endorsed-api-7.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/javaee-web-api-6.0-sources.jar.lastUpdated" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/javaee-web-api-6.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/6.0/javaee-web-api-6.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/7.0/_maven.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/7.0/javaee-web-api-7.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/javaee-web-api/7.0/javaee-web-api-7.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/javax.json-api-1.0-sources.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/javax.json-api-1.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/javax.json-api-1.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/json/javax.json-api/1.0/javax.json-api-1.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/mail/javax.mail-api/1.6.2/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/mail/javax.mail-api/1.6.2/javax.mail-api-1.6.2.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/mail/javax.mail-api/1.6.2/javax.mail-api-1.6.2.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/mail/javax.mail-api/1.6.2/javax.mail-api-1.6.2.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/3.1.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.3/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.5/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1-sources.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/transaction/javax.transaction-api/1.2/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/validation/validation-api/1.1.0.Final/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/ws/rs/jsr311-api/1.1.1/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api-parent/2.3.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api-parent/2.3.0/jaxb-api-parent-2.3.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.1/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.3.0/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/stream/stax-api/1.0-2/_remote.repositories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/MoreInfo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/MoreInfo.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/META-INF/FirstExample.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/ChangeDefPass.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/EmailSent.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/MoreInfo.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/PasswordRecovery.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/SQL.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/SignIn.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/VAnavigation/SignUp.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/fxml/Table.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/images/icons8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/styles/ChangeDefPass.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/styles/PasswordRecovery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/styles/SQL.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/styles/SignIn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/com/pavesid/styles/SignUp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/images/facebook@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/images/instagram@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/images/pavesid@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/images/pinterest@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstExample/images/twitter@2x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/pavesid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pavesid/helper/sendEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/ChangeDefPass.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/ChangeDefPass.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/EmailSent.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/PasswordRecovery.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/PasswordRecovery.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SQL.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SQL.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignIn.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignIn.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignUp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignUp.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/ChangeDefPassController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/ChangeDefPassController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/EmailSentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/PasswordRecoveryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/PasswordRecoveryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/mail/SendInlineImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/facebook@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/instagram@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/pavesid@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/pinterest@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/twitter@2x.png" beforeDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -192,78 +125,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/mail/SendInlineImage.java">
+        <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/EmailSendController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#MyDB#1;class#MyDB#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
-            </state>
-          </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -288,16 +154,20 @@
       <find>VAn</find>
       <find>css</find>
       <find>text</find>
-      <find>src</find>
       <find>twitt</find>
       <find>illo_welcome_1</find>
       <find>llo_welcome_</find>
-      <find>|</find>
       <find>Tahom</find>
       <find>username</find>
       <find>num6</find>
       <find>Img</find>
       <find>Logo</find>
+      <find>src</find>
+      <find>|</find>
+      <find>user</find>
+      <find>pas</find>
+      <find>cid</find>
+      <find>out</find>
     </findStrings>
   </component>
   <component name="FindManager">
@@ -311,10 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/TableController.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/Controler.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/Controller.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationBook.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/styles/SignIn.css" />
         <option value="$PROJECT_DIR$/src/com/pavesid/fxml/SignIn.fxml" />
         <option value="$PROJECT_DIR$/src/com/pavesid/fxml/SignUp.fxml" />
@@ -330,26 +196,17 @@
         <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/ForgotPass.fxml" />
         <option value="$PROJECT_DIR$/src/com/pavesid/controllers/ForgotPassController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/styles/ChangeDefPass.css" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/ChangeDefPassController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/RegistrationBook.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/styles/EmailSent.css" />
         <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/PasswordRecovery.fxml" />
         <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/ChangeDefPass.fxml" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/EmailSentController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/SQL.fxml" />
         <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/EmailSent.fxml" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/PasswordRecoveryController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DB.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/Navigation.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/helper/sendHtmlEmail.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/controllers/BaseController.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/objects/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java" />
-        <option value="$PROJECT_DIR$/src/com/pavesid/Main.java" />
         <option value="$PROJECT_DIR$/src/label_3.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml" />
         <option value="$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java" />
@@ -361,7 +218,20 @@
         <option value="$PROJECT_DIR$/src/Send.java" />
         <option value="$PROJECT_DIR$/src/SendInlineImage.java" />
         <option value="$PROJECT_DIR$/src/beefree-u9yt8xwesii.html" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/mail/images/mail.html" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/mail/SendInlineImage1.java" />
         <option value="$PROJECT_DIR$/src/com/pavesid/mail/SendInlineImage.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/EmailSentController.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/EmailSendController.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/PasswordRecoveryController.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/ChangeDefPassController.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java" />
+        <option value="$PROJECT_DIR$/src/com/pavesid/mail/SendEmail.java" />
       </list>
     </option>
   </component>
@@ -395,6 +265,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -412,6 +283,20 @@
               <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pavesid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pavesid" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pavesid" type="462c0819:PsiDirectoryNode" />
+              <item name="fxml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
@@ -439,19 +324,34 @@
               <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pavesid" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="impls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pavesid" type="462c0819:PsiDirectoryNode" />
               <item name="mail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
               <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="pavesid" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RegJavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegJavaFX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pavesid" type="462c0819:PsiDirectoryNode" />
+              <item name="VAnavigation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -473,32 +373,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558614315380" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558690196245" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\FXProject\FirstExample\src\com\pavesid\VAnavigation" />
-      <recent name="E:\FXProject\FirstExample\src\com\pavesid\styles" />
-      <recent name="E:\FXProject\FirstExample\src\com\pavesid\fxml" />
-      <recent name="E:\FXProject\FirstExample\src\com\pavesid\images" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.pavesid.controllers" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\RegJavaFX\src\com\pavesid\images" />
       <recent name="H:\RegJavaFX\src\images" />
       <recent name="C:\Users\sidorovich_p\Desktop\RegJavaFX\src\com\pavesid\Mail" />
       <recent name="C:\Users\sidorovich_p\Desktop\RegJavaFX\lib" />
       <recent name="E:\FXProject\FirstExample\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pavesid.mail" />
+      <recent name="com.pavesid.controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\FXProject\FirstExample\src\com\pavesid\VAnavigation" />
+      <recent name="E:\FXProject\FirstExample\src\com\pavesid\styles" />
+      <recent name="E:\FXProject\FirstExample\src\com\pavesid\fxml" />
+      <recent name="E:\FXProject\FirstExample\src\com\pavesid\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -513,7 +414,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SendInlineImage">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -584,6 +485,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SendEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pavesid.mail.SendEmail" />
+      <module name="FirstExample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pavesid.mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pavesid.mail.SendEmail" />
+      <module name="FirstExample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SendHTMLEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SendHTMLEmail" />
       <module name="FirstExample" />
@@ -592,23 +515,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SendInlineImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pavesid.mail.SendInlineImage" />
-      <module name="FirstExample" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="label_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="label_3" />
-      <module name="FirstExample" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -648,18 +555,17 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.label_3" />
       <item itemvalue="Application.SendHTMLEmail" />
       <item itemvalue="Application.Send" />
-      <item itemvalue="Application.SendInlineImage" />
+      <item itemvalue="Application.SendEmail" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SendInlineImage" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.SendEmail" />
+        <item itemvalue="Application.SendEmail" />
         <item itemvalue="Application.Send" />
         <item itemvalue="Application.SendHTMLEmail" />
-        <item itemvalue="Application.label_3" />
       </list>
     </recent_temporary>
   </component>
@@ -686,12 +592,14 @@
       <workItem from="1558622179651" duration="9288000" />
       <workItem from="1558635436821" duration="254000" />
       <workItem from="1558635810305" duration="1266000" />
-      <workItem from="1558637131223" duration="245000" />
+      <workItem from="1558685694579" duration="2546000" />
+      <workItem from="1558716045307" duration="6731000" />
+      <workItem from="1558722810874" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103429000" />
+    <option name="totallyTimeSpent" value="112481000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -704,9 +612,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.18381618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.12637363" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -715,7 +622,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897383" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29879275" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2977867" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3998441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -743,44 +650,6 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.15937997" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30007794" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3998441" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969603" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Problems" order="9" />
-      <window_info anchor="bottom" id="Changes" order="10" />
-      <window_info anchor="bottom" id="Profiler" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" weight="0.32969603" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32969603" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32969603" />
-      <window_info anchor="bottom" id="Database Changes" order="16" />
-      <window_info anchor="bottom" id="Terminal" order="17" weight="0.32969603" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="JetGradle" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.3298887" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.12877584" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -794,32 +663,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/TableController.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/GenerateSecurePassword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/cxc.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/DetectionSpecialChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/AlertWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/styles/SignUp.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -837,21 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/RegistrationBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignUp.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/styles/SQL.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -867,87 +695,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/styles/EmailSent.css" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/EmailSentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/ChangeDefPass.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/EmailSent.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/SQL.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignIn.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="791">
           <caret line="61" selection-start-line="61" selection-end-line="62" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/PasswordRecoveryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/ChangeDefPassController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/PasswordRecovery.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DB.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/Navigation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#load#0;class#Navigation#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -956,48 +720,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/sendHtmlEmail.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="45" column="66" selection-start-line="45" selection-start-column="66" selection-end-line="47" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#updatePassPerson#0;class#DBRegistrationPerson#0" />
-            <element signature="method#removePerson#0;class#DBRegistrationPerson#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/label_3.java" />
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/ЫутвУьфш.java" />
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/SimpleMail.java" />
@@ -1007,28 +729,13 @@
     <entry file="file://$PROJECT_DIR$/src/SendHTMLEmail.java" />
     <entry file="file://$PROJECT_DIR$/src/Send.java" />
     <entry file="file://$PROJECT_DIR$/src/images/Logo1.png" />
-    <entry file="jar://$USER_HOME$/Downloads/javax.mail-1.6.2.jar!/javax/mail/Authenticator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/javax.mail-1.6.2.jar!/javax/mail/Authenticator.class" />
     <entry file="file://$PROJECT_DIR$/src/images/illo_welcome_1.png" />
     <entry file="file://$PROJECT_DIR$/src/beefree-u9yt8xwesii.html" />
-    <entry file="file://$PROJECT_DIR$/src/images/pavesid@2x.png" />
-    <entry file="file://$PROJECT_DIR$/src/images/instagram@2x.png" />
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/mail/images/pavesid@2x.png" />
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/mail/images/instagram@2x.png" />
+    <entry file="file://$PROJECT_DIR$/out/artifacts/FirstExample/FirstExample.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/Person.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1037,29 +744,256 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        <state relative-caret-position="1819">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#MyDB#1;class#MyDB#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/MoreInfo.fxml">
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/mail/images/mail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="206">
+          <caret line="378" column="247" selection-start-line="378" selection-start-column="247" selection-end-line="378" selection-end-column="247" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v:roundrect#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#center#0;n#v:textbox#0;n#v:roundrect#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#strong#0;n#span#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#strong#0;n#span#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#strong#0;n#span#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/MoreInfoController.java">
+    <entry file="file://$PROJECT_DIR$/out/artifacts/FirstExample/FirstExample.jnlp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/RegistrationBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/EmailSend.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/SignUp.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/ChangeDefPass.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/interfaces/impls/DBRegistrationPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#sqlQuery#0;class#DBRegistrationPerson#0" />
+            <element signature="method#addPerson#0;class#DBRegistrationPerson#0" />
+            <element signature="method#removePerson#0;class#DBRegistrationPerson#0" />
+            <element signature="method#isPerson#0;class#DBRegistrationPerson#0" />
+            <element signature="method#getPerson#0;class#DBRegistrationPerson#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/PasswordRecoveryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/ChangeDefPassController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <caret line="45" column="81" lean-forward="true" selection-start-line="45" selection-start-column="81" selection-end-line="45" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/DetectionSpecialChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/helper/GenerateSecurePassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/objects/MyDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#isRightPass#0;class#MyDB#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SignUpController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="40" column="83" selection-start-line="40" selection-start-column="83" selection-end-line="40" selection-end-column="83" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1068,21 +1002,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SignInController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/Navigation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="method#load#0;class#Navigation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/SQLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/facebook@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pavesid/mail/SendInlineImage.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/VAnavigation/SQL.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/mail/SendEmail.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pavesid/controllers/EmailSendController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1092,7 +1064,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>FirstExample:jar</last-edited>
+          <last-edited>FirstExample</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
