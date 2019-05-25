@@ -5,6 +5,10 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.control.Alert;
+import javafx.scene.control.ButtonType;
+import javafx.scene.input.KeyCode;
+import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.Pane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
@@ -26,6 +30,7 @@ public class Navigation {
         stage.setMinHeight(720);
         stage.setMinWidth(720);
         stage.setScene(scene);
+        handleExit();
     }
 
     public Controller load(String sUrl) {
@@ -74,5 +79,21 @@ public class Navigation {
 
     public Stage getStage() {
         return stage;
+    }
+
+    public void handleExit(){
+        stage.addEventHandler(KeyEvent.KEY_PRESSED, t -> {
+            if(t.getCode()== KeyCode.ESCAPE) {
+                Alert alert = new Alert(Alert.AlertType.CONFIRMATION);
+                alert.setTitle("Exit");
+                alert.setHeaderText("Are you sure you want to quit?");
+                alert.showAndWait().filter(ButtonType.OK::equals).ifPresent(b -> {
+
+                    stage.close();
+
+                });
+            }
+
+        });
     }
 }

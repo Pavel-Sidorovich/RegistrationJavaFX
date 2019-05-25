@@ -4,8 +4,12 @@ import com.pavesid.Main;
 import com.pavesid.VAnavigation.Navigation;
 import com.pavesid.interfaces.impls.DBRegistrationPerson;
 import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
 import javafx.scene.Node;
 import javafx.scene.control.ToggleButton;
+import javafx.scene.input.KeyCode;
+import javafx.scene.input.KeyEvent;
+import javafx.stage.Stage;
 
 public class BaseController implements Controller {
 
@@ -35,6 +39,8 @@ public class BaseController implements Controller {
         PostShowing();
     }
 
+
+
     public void PreShowing()
     {
     }
@@ -56,5 +62,4 @@ public class BaseController implements Controller {
                 break;
         }
     }
-
 }
